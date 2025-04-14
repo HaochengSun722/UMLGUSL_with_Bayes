@@ -11,3 +11,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/HaochengSun722/UMLGUSL_with_Bayes.git
+```
+
+## Acknowledgement
+
+All the learning and evaluation of Bayes-nets in this paper is done using the [bnlearn package (version = 0.10.2)](https://erdogant.github.io/bnlearn/pages/html/index.html) in Python.The authors are deeply grateful for this.
